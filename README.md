@@ -1,0 +1,2 @@
+# mining-course
+Mining cryptocory
